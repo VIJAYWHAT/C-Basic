@@ -31,7 +31,8 @@ int main(){
         }
         printf("\n");
 
-       }
        
+       }
+
 
 }
