@@ -2,7 +2,7 @@
 
 int main(){
 
-    /*int i,j,n; //pattern1 start
+    int i,j,n; //pattern1 start
 
     printf("enter the n:");
     scanf("%d",&n);
@@ -16,9 +16,9 @@ int main(){
 
        } 
        }
-       //pattern1 end*/
+       //pattern1 end
 
-        /*int i,j,row,col; //pattern2 start
+      /* int i,j,row,col; //pattern2 start
 
     printf("enter the row:");
     scanf("%d",&row);
@@ -36,8 +36,8 @@ int main(){
         
         } //pattern2 end*/
 
-/*
-        int i,j,k,n; //pattern3 start
+
+       /* int i,j,k,n; //pattern3 start
 
         printf("enter the num:");
         scanf("%d",&n);
@@ -49,11 +49,10 @@ int main(){
             printf("\n");
 
             }  
-            } //pattern3 end
+            } //pattern3 end*/
 
-            */
-
-       /* int n; //pattern4 start
+            
+       /*int n; //pattern4 start
 
         printf("enter the num:");
         scanf("%d",&n);
@@ -66,11 +65,11 @@ int main(){
 
     }
               
-            }pattern 4 end
-            */
+            }//pattern 4 end*/
+            
 
 
-    int n,i,j;
+   /* int n,i,j;
 
         printf("enter the num:");
         scanf("%d",&n);
@@ -90,8 +89,7 @@ int main(){
             }
 
 
-       }
+       }*/
 
-     
 
 
