@@ -44,6 +44,19 @@ int main(){
                    8,
                    10};
 
+    int count = 0;
+    printf("value%13s\n","frequency"); //%13s for the space
+    for(int i=1;i<=10;i++){
+        for(int j=1;j<=40;j++){ 
+            if(array[j] == i){ //check the i in array[j]
+                count++; //adding the count
+            }
+        }
+
+        printf("%d%13d\n",i,count);
+        count = 0;
+    }
+
 return 0;
                    
 }
