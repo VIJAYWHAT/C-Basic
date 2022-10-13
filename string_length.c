@@ -17,5 +17,5 @@ int main(){
 
     }
             
-        printf("length of string: %d\n",length);
+        printf("length of string: %d\n",length-1);
 }
